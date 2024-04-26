@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @weary06
 - 👀 I’m interested in brawl stars
-- 🌱 I’m currently learning how to breath
+- 🌱 I’m currently learning PHP e MySQL
 - 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me ig:weary.is.here
 - 😄 Pronouns: he/him
